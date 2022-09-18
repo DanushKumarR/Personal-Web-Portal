@@ -1,0 +1,127 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+   width: 100vw;
+   max-height: 100vh;
+    background-blend-mode:color;
+    background-color: rgba(152, 231, 255, 0.464);
+}
+#home{
+
+  background-color: rgb(188, 217, 244);
+  
+}
+.devimg img{
+width: 630px;
+ max-width: 50vw;
+ max-height: 100%;
+  position:relative;
+  margin-top: 0%;
+  margin-left: 30%;
+
+}
+.devtext{
+text-align: center;
+position:relative;
+margin-top: 0%;
+bottom: 15%;
+padding-bottom: 10px;
+}
+.devtext h1{
+  padding-bottom: 0px;
+}
+.devtext h5{
+  padding-bottom: 0px;
+}
+.carousel-inner{
+  width: 100%;
+  
+}
+.d-block 
+{
+position:relative;
+max-width: 250vh;
+max-height: 100vh;
+
+}
+.profile{
+  position: relative;
+  margin-top: 30px;
+  margin-left: 10px;
+  bottom: 20px;
+}
+.protext{
+  position: absolute;
+  max-width: 1000px;
+  top: 50px;
+  left: 330px;
+}
+.protext h1{
+ text-align: center;
+ padding-bottom: 0px;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.protext h6{
+ text-align: center;
+ padding-top: 0px;
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.protext p{
+  text-align: justify;
+  font-size: 1.8vw;
+}
+#profile{
+  background-color: rgb(252, 255, 162);
+}
+.edu h4{
+  text-align: center;
+}
+.download h3{
+  position: relative;
+  margin-top: 50px;
+  margin-left: -850px;
+}
+.download button{
+  position: absolute;
+  margin-top: 0px;
+  right: 600px;
+}
+.download{
+  padding-bottom: 80px;
+}
+.download button{
+  width: 200px;
+}
+
+ .logo{
+  margin-top: 50px;
+ }
+
+.img1{
+   position:relative;
+   margin-top: 5%;
+   margin-left: 0%;
+}
+/* Style buttons */
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+.table-bordered{
+    border-color: black;
+}  
+.download{
+  position: relative;
+  margin-left: 900px;
+}
